@@ -1,8 +1,8 @@
 /*
-  * Created by Christian ID 
+  * Created by Idam ID 
   * Base Ori : rtwone / Irfan
-  * Recode : Tsuyuzaki Hayase
-  * Github : https://github.com/YuzkiTodz
+  * Recode : Idam xxrns
+  * Github : https://github.com/Idamxixi
 */
 
 "use strict";
